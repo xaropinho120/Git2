@@ -1,2 +1,2 @@
 Olá,tudo bem como vai você?
-Isso é uma lateração 
+Isso é uma alteração 
